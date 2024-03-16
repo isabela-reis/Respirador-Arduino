@@ -1,6 +1,6 @@
 # Respirador  <img src=         "https://lh3.googleusercontent.com/pw/AL9nZEVQl-XhuZe9ws25j7yV5fVEtLWLoh-wzf_o1p_l9Lv3JMSWSq1Yl-jR6AwZIcRxiVBLniR7lG5us-y2kIRXyNpDnGrAEcmdkLweloMzjjBo5RnUgM3LO9IOK9Mt9tLDfy71QaNyUj6_bXGbsObXUp4=s24-no?authuser=0"/>
 
-Esse projeto foi proposto na diciplina de Fábrica de Projetos com o objetivo de  utilizar os conhecimentos obtidos em C++ unidos com Arduino Uno, para desenvolver um programa que movimentasse um servomotor de forma que ele precionasse abrindo e fechando o ambú.
+Esse projeto foi proposto na diciplina de Fábrica de Projetos com o objetivo de  utilizar os conhecimentos obtidos em C++ unidos com Arduino Uno, para desenvolver um programa que movimentasse um servomotor de forma que ele pressionasse abrindo e fechando o ambú.
 
 As ferramentas utilizadas foram a plataforma tinkercad e o Arduino Uno com servo motor.
 
