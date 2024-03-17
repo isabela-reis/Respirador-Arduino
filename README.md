@@ -8,9 +8,7 @@ Plataforma tinkercad e o Arduino Uno com servo motor.
 ## 🎯 Resultado
 
   https://github.com/isabela-reis/Respirador-Arduino/assets/101959073/44d2e284-1c66-4fe1-bd92-6d7579364bfe
-  <div align="left">
-  <img height="350" src="https://github.com/isabela-reis/Respirador-Arduino/assets/101959073/d1d59f4a-da4a-4d66-aac4-3af9c8f0b8a0"/>
-</div>
+
 
 
 
